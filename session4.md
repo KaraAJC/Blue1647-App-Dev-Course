@@ -4,7 +4,8 @@
 
 ##Session Schedule:
 ###Welcome
-  - Review - Wireframes
+  - take another [Mini Quiz](http://bit.ly/BlueAppNov16Session3)
+  - Review - Wireframes & HTML
 
 ###Intro to Data:
   - Learn about Data Types and REST resources.
@@ -15,3 +16,4 @@
 
 ##Homework:
   - Sketch a detailed schema of your apps data.
+  - Continue to wireframe and build HTML pages. Ensure that all work is uploaded to github.

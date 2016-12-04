@@ -21,6 +21,7 @@
 - [Eloquent Javascript](http://eloquentjavascript.net/)
 - [JS on codecademy](https://www.codecademy.com/learn/learn-javascript)
 - [Javascript Tutorial](http://htmldog.com/guides/javascript/)
+
 ##Command Line Interface:
 - [Learn CLI the Hard Way](https://learncodethehardway.org/unix/)
 - [Codecademy course on Command Line](https://www.codecademy.com/learn/learn-the-command-line)

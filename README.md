@@ -10,3 +10,4 @@ App Development: From Idea to Prototype | A course for Blue1647
 ##Session Seven: Prototype!
 ##Session Eight: Pitch!
 
+### [Resources](resources/resources.md)

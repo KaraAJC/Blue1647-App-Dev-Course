@@ -18,6 +18,7 @@
 ##CSS:
 - [Learn CSS Layout](https://learnlayout.com)
 - [CodeCademy HTML/CSS Course](https://www.codecademy.com/en/tracks/htmlcss)
+- [Learn Materialize](http://materializecss.com/)
 
 ##Javascript:
 - [Eloquent Javascript](http://eloquentjavascript.net/)

@@ -7,8 +7,11 @@
 [Github Guides](https://guides.github.com/)
 
 ##Design Thinking:
+[Persona Worksheet]()
 
 ##HTML:
+
+[w3c Reference]()
 
 
 ##CSS:

@@ -12,8 +12,10 @@
 
 ##HTML:
 - [HTML5 Boilerplate](https://html5boilerplate.com/) : Has a setup for a best-practice HTML/CSS/JS setup to get started quickly
+- [HTML5 Boilerplate to download](template-frontend.zip)
 - [MarkSheet.io](http://marksheet.io/) : A free HTML/CSS Tutorial
-- [w3c Reference]() : A reference for HTML elements
+- [w3c Reference](http://w3c.github.io/html-reference/elements.html) : A reference for HTML elements
+- [HTML5 best practices](https://www.sitepoint.com/a-basic-html5-template/)
 
 ##CSS:
 - [Learn CSS Layout](https://learnlayout.com)
@@ -29,6 +31,11 @@
 - [Learn CLI the Hard Way](https://learncodethehardway.org/unix/)
 - [Codecademy course on Command Line](https://www.codecademy.com/learn/learn-the-command-line)
 
+
+##Databases & APIs:
+- [DB Template](https://docs.google.com/spreadsheets/d/1c9sgq16us36K1bygqDWLI8V_7pW-Odt0qeJW3DBwltg/edit?usp=sharing)
+- [Airtable](https://airtable.com/invite/r/96gpCT4M)
+
 ##Peer Communities:
 - [CodeNewbie](https://www.codenewbie.org)
 - [Chicago Tech Diversity Initiative](https://chitechdiversity.com/)
@@ -38,3 +45,4 @@
 
 ##Markdown:
 - [Markdown Tutorial](http://www.markdowntutorial.com/)
+- [Sample Readme](sample-readme.md)

@@ -1,15 +1,18 @@
-# Session Five: Datamine!
+# Session Seven: Test!
 
-##Session Goal: To Evaluate sketches and determine if, when, and how to use external data sources via APIs.
+##Session Goal: To Review our MVP prototype, and apply testing strategies to iterate on our work
 
 ##Session Schedule:
 ###Welcome
-  - Review - Databases
+  - Review: Build
 
-###Pros & Cons to External Data Sources
+###Test Strategies
+  - Prototyping
+  - BDD
+    User Stories => Acceptance Criteria
+  - A/B Testing
 
-###Intro to APIs
-  - Activity: Sketch a schema of a popular site.
+###Getting Feedback
 
 ##Homework:
   - Sketch a detailed schema of your apps data. Use this [DB Template](https://docs.google.com/spreadsheets/d/1c9sgq16us36K1bygqDWLI8V_7pW-Odt0qeJW3DBwltg/edit?usp=sharing)

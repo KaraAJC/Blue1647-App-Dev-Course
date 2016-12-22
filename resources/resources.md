@@ -7,8 +7,11 @@
 - [Github Guides](https://guides.github.com/)
 
 ##Design Thinking:
-[Persona Worksheet]()
-
+- [Human Centered Design Toolkit](human-centered-design-toolkit.pdf)
+- [Persona Worksheet](persona-core-poster.pdf)
+- [Prototype feedback tips](https://public-media.interaction-design.org/pdf/Six-Best-Practice-Tips-for-Gathering-Feedback-on-Your-Prototypes.pdf)
+- [Feedback Capture Grid](https://public-media.interaction-design.org/pdf/Feedback-Capture-Grid.pdf)
+- [Feedback 'i like, i wish, what if' method](https://public-media.interaction-design.org/pdf/I-Like-I-Wish-What-If.pdf)
 
 ##HTML:
 - [HTML5 Boilerplate](https://html5boilerplate.com/) : Has a setup for a best-practice HTML/CSS/JS setup to get started quickly
@@ -46,3 +49,5 @@
 ##Markdown:
 - [Markdown Tutorial](http://www.markdowntutorial.com/)
 - [Sample Readme](sample-readme.md)
+
+##Testing:

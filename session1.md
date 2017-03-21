@@ -1,8 +1,9 @@
-# Session One : Ideate!
+# Session One: Ideate!
 
-##Session Goal: To Generate ideas for your app using Human Centered Design methods
+## Session Goal: 
+To Generate ideas for your app using Human Centered Design methods
 
-##Session Schedule:
+## Session Schedule:
 - Welcome
   - Overview
   - [Quick Assessment](http://bitly.com/blue1647nov16course)
@@ -16,7 +17,7 @@
   - Activity: Create your first Repository
   - Activity: Contribute to the Course Repository
 
-##Homework:
+## Homework:
 - Write up the 3 Ideas and commit to your repository
 - Choose an Inspiration research method to gather feedback on your ideas
 - Rank your ideas, you will be moving forward with one.

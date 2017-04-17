@@ -1,8 +1,10 @@
 # Session Three : Wireframe!
 
-## Session Goal: To take user research, and flows and frame out the paths that need to be created, with wireframing tools, and an understanding of the grid system.
+## Session Goal: 
+To take user research, and flows and frame out the paths that need to be created, with wireframing tools, and an understanding of the grid system.
 
 ## Session Schedule:
+
 ### Welcome
   - Review - User Research
 
